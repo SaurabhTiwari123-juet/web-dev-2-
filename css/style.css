@@ -33,6 +33,7 @@ body {
   background-color: black;
   color: white;
 }
+/*we CAN USE HEX CODE AS WELL IN COLOR */
 
 .button:hover {
   background-color: white;
