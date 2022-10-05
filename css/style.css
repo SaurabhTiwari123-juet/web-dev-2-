@@ -1,7 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   border: 5px solid black;
   font-family: sans-serif;
   line-height: 1.4;
+  width: 825px;
+  margin: 50px auto;
+  height: 600px;
+}
+
+.main-container {
+  width: 700px;
+  margin: 0 auto;
 }
 
 .h1 {
@@ -38,6 +51,8 @@ body {
 .button:hover {
   background-color: white;
   color: black;
+  border: 5px solid black;
+  width: 100%;
 }
 
 .button {
@@ -45,6 +60,9 @@ body {
 }
 li {
   list-style: square;
+}
+.button:hover {
+  border: px sloid black;
 }
 /* 
 .hover:.button:hover {
