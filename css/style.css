@@ -27,7 +27,7 @@ body {
   text-transform: uppercase;
   color: rgb(100, 100, 100);
   font-size: 12px;
-  text: bold;
+  text-transform: bold;
 }
 
 .img {
