@@ -7,4 +7,4 @@ for (let hobby of hobbies) {
   list.innerHTML += "<li class= 'blue'>" + hobby + "</li>";
 }
 
-body.appendChild(list);
+document.body.appendChild(list);
